@@ -4,6 +4,8 @@
 ## Aplicacao consumindo api "jokeApi", utilizando react native, redux, axios, react navigation e expo.
   
 
+[Download do apk para executar no android](https://expo.dev/artifacts/6996b07f-2cba-467a-af91-b42002950fa5)
+
 ### 📦 Rode o server
 
   
