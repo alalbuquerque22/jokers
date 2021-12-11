@@ -1,2 +1,0 @@
-# jokers
-jokerapi
